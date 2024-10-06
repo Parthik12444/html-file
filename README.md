@@ -1,3 +1,3 @@
 # html-file
 Just for fun
-author-parthik rawat
+author-parthik rawat (python developer)
